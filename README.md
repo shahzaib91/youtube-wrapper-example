@@ -4,7 +4,7 @@
 <ul>
     <li>Run the command: <code>git clone https://github.com/shahzaib91/youtube-wrapper-example.git</code> to download this repo.</li>
     <li>Run the command: <code>composer install</code> to download dependencies.</li>
-    <li>Configure "config.php" file.</li>
+    <li>Configure "config.php" file (you will need google 0Auth config json and Api Key at this point).</li>
     <li>Start exploring features using UI.</li>
 </ul>
 <h3>Files Description</h3>
